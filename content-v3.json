@@ -1,0 +1,1593 @@
+{
+  "schemaVersion": 1,
+  "revision": 3,
+  "catalog": {
+    "schemaVersion": 1,
+    "issue": {
+      "date": "2026-11-24",
+      "number": "002",
+      "label": "随读",
+      "id": "reading-2026-11-24"
+    },
+    "items": [
+      {
+        "id": "demo-sign",
+        "type": "daily-sign",
+        "title": "假期",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "生活应该是一个永不间断的假期。",
+        "attribution": "亨利－皮埃尔·罗什",
+        "blocks": [],
+        "sources": [],
+        "publishedDate": "2020-05-02",
+        "dailySign": {
+          "dateLabel": "二零二零年五月二日",
+          "theme": [
+            {
+              "text": "假",
+              "pinyin": "jià"
+            },
+            {
+              "text": "期",
+              "pinyin": "qī"
+            }
+          ],
+          "quote": "生活应该是一个永不间断的假期。",
+          "author": "亨利－皮埃尔·罗什",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "poster-distant-shore-2026-11-24",
+        "type": "poster",
+        "title": "把目光放远，把脚步放慢。",
+        "source": "MONO视觉",
+        "category": "海报",
+        "text": "把目光放远，把脚步放慢。",
+        "attribution": "MONO 编辑部 · 原创",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "先不急着给这张照片取一个名字。把视线放在水边，再慢慢移到山脚，你会发现，远处并没有催促我们。"
+          },
+          {
+            "type": "paragraph",
+            "text": "有时候，留一点时间给眼睛，就是把一点时间还给自己。让风景停留片刻，今天也可以只在熟悉的地方，多看一眼。"
+          }
+        ],
+        "sources": [],
+        "publishedDate": "2026-11-24",
+        "image": "landscape",
+        "poster": {
+          "quote": "把目光放远，把脚步放慢。",
+          "author": "MONO 编辑部",
+          "brandLabel": "MONO海报"
+        }
+      },
+      {
+        "id": "image-text-beyond-mushroom-2026-11-24",
+        "type": "image-text",
+        "title": "蘑菇露面之前",
+        "source": "MONO自然",
+        "category": "图文",
+        "text": "我们看见一顶小伞，却未必看见它背后的生活。",
+        "attribution": "MONO 编辑部整理 · 观察文字原创",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "看到蘑菇，我们很容易把它当成一株小植物。英国皇家植物园邱园的介绍提醒我们：真菌属于独立的生物界，不能像植物那样依靠光合作用获得能量。"
+          },
+          {
+            "type": "paragraph",
+            "text": "许多真菌由细小的菌丝组成，菌丝集合成菌丝体。蘑菇是一些真菌的繁殖结构，只是整个生物体的一部分。多数真菌会先向外释放酶，分解有机物，再吸收养分。"
+          },
+          {
+            "type": "paragraph",
+            "text": "这些知识让一张熟悉的照片有了第二种读法。图中的微光把一簇小小的真菌从背景中显现出来；而关于菌丝的知识，又让我们的注意力走向画面以外。看得见的部分，未必就是全部。"
+          },
+          {
+            "type": "paragraph",
+            "text": "下次在散步途中看见一簇蘑菇，可以先不急着给它命名。留意它长在木头上还是泥土里，与周围的落叶相隔多远。看见一顶小伞，也可以成为一次重新学习观察的开始。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Kew · The wonderful world of fungi",
+            "url": "https://www.kew.org/read-and-watch/the-wonderful-world-of-fungi"
+          }
+        ],
+        "publishedDate": "2026-11-24",
+        "image": "mushrooms"
+      },
+      {
+        "id": "poem-light-at-home-2026-11-24",
+        "type": "poem",
+        "title": "灯还亮着",
+        "source": "MONO诗笺",
+        "category": "短诗",
+        "text": "回家的路上\n我没有再打开地图\n\n只是把脚步\n交给熟悉的转角\n\n有人正把晚饭端上桌\n有人关掉最后一盏店灯\n\n而楼道里\n那一小块暖色\n\n没有询问我\n今天过得够不够好",
+        "attribution": "MONO 编辑部 · 原创",
+        "blocks": [
+          {
+            "type": "poem",
+            "text": "回家的路上\n我没有再打开地图\n\n只是把脚步\n交给熟悉的转角\n\n有人正把晚饭端上桌\n有人关掉最后一盏店灯\n\n而楼道里\n那一小块暖色\n\n没有询问我\n今天过得够不够好"
+          }
+        ],
+        "sources": [],
+        "publishedDate": "2026-11-24"
+      },
+      {
+        "id": "article-hokusai-wave-2026-11-24",
+        "type": "article",
+        "title": "看浪，也看浪后面的山",
+        "source": "MONO艺术",
+        "category": "文章",
+        "text": "把视线从最醒目的地方移开，一张熟悉的画会有什么变化？",
+        "attribution": "MONO 编辑部 · 原创解读",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "有些图像，我们以为自己已经看过很多次。它出现在帆布袋、书封和手机壁纸上，熟悉到只需要一眼，就能迅速叫出名字。葛饰北斋的《神奈川冲浪里》常常就是这样被认出来的。"
+          },
+          {
+            "type": "paragraph",
+            "text": "大都会艺术博物馆将这件作品记录为约 1830—1832 年的彩色木版画，属于《富岳三十六景》。画中既有近处卷起的浪，也有远处小小的富士山。"
+          },
+          {
+            "type": "heading",
+            "text": "先把那道浪放在一边"
+          },
+          {
+            "type": "paragraph",
+            "text": "第一次看，目光被卷起的浪吸引，是很自然的事。它占据了显眼的位置，边缘又有许多细碎的白色。我们甚至还没来得及辨认船只，就已经在心里听见了水声。那当然是观看者的想象，纸上的作品本身没有声音。"
+          },
+          {
+            "type": "paragraph",
+            "text": "不妨换一种顺序：先找远处的山，再看它周围留下的空间，然后沿着船只回到前景。你不需要立刻得到一个关于构图的结论。只是这样绕一圈，便会发现，刚才几乎占满注意力的浪，现在成了许多关系中的一个部分。"
+          },
+          {
+            "type": "heading",
+            "text": "熟悉，不等于已经看完"
+          },
+          {
+            "type": "paragraph",
+            "text": "我们常把识别当成观看的终点。“这幅我知道”，说完便转向下一件作品。识别确实让人安心，但它也可能提前关上了一扇门：名字已经找到了，细节似乎就不再需要等待。"
+          },
+          {
+            "type": "paragraph",
+            "text": "真正让一次重看变得有意思的，未必是发现别人从没发现过的秘密。有时只是看见一条此前忽略的边缘，意识到某个很小的形状一直在那里，或者发现自己的目光总在同一处停留。作品没有换，观看它的人却带着今天不同的心情回来。"
+          },
+          {
+            "type": "heading",
+            "text": "给自己一次不急着命名的观看"
+          },
+          {
+            "type": "paragraph",
+            "text": "如果暂时看不到这幅作品的大图，也可以用手边的照片做同样的练习。先看角落，再看背景，最后才看主体。不要急着截出最好看的部分，让一张图保持完整，多留一会儿。"
+          },
+          {
+            "type": "paragraph",
+            "text": "这样的观看没有标准答案，也不要求记住年代与术语。只需要在下一次说“我看过了”之前，给目光多走一条路的机会。熟悉的东西，也可以在今天重新与我们相遇。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "The Met · Under the Wave off Kanagawa，藏品 JP1847",
+            "url": "https://www.metmuseum.org/art/collection/search/45434"
+          }
+        ],
+        "publishedDate": "2026-11-24"
+      },
+      {
+        "id": "poster-small-light-2026-11-24",
+        "type": "poster",
+        "title": "微小的光，也有自己的方向。",
+        "source": "MONO视觉",
+        "category": "海报",
+        "text": "微小的光，也有自己的方向。",
+        "attribution": "MONO 编辑部 · 原创",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "照片里的细小光亮，需要我们把目光放低，才容易被注意到。大多数时候，值得看见的东西并不占据画面的中央。"
+          },
+          {
+            "type": "paragraph",
+            "text": "不必等所有地方都亮起来。先照见脚边的一小段路，也足够让人继续往前走。"
+          }
+        ],
+        "sources": [],
+        "publishedDate": "2026-11-24",
+        "image": "mushrooms",
+        "poster": {
+          "quote": "微小的光，也有自己的方向。",
+          "author": "MONO 编辑部",
+          "brandLabel": "MONO海报"
+        }
+      },
+      {
+        "id": "image-text-reading-coastline-2026-11-24",
+        "type": "image-text",
+        "title": "沿着一条岸线读风景",
+        "source": "MONO地理",
+        "category": "图文",
+        "text": "从水面走向屋顶，再从屋顶走向山脚。",
+        "attribution": "MONO 编辑部整理 · 观看练习原创",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "挪威雷讷位于罗弗敦群岛。当地旅游机构介绍，这座渔村分布在由桥梁与曲折道路相连的岛屿上。照片里的聚落并不是风景之外的一笔点缀，而是人们生活的地方。"
+          },
+          {
+            "type": "paragraph",
+            "text": "试着只看画面的下半部分：水面如何绕过陆地，屋顶如何沿着边缘聚集。再把视线抬高，山体的轮廓才慢慢进入。我们熟悉的“山海全景”，其实也可以拆成许多条值得追随的线。"
+          },
+          {
+            "type": "paragraph",
+            "text": "一张照片能容纳山海，却容纳不下每扇窗后面的一天。看风景的时候，也可以记得：那些被我们视作漂亮轮廓的屋顶，对另一些人来说，就是每天出门又回来的地方。"
+          },
+          {
+            "type": "paragraph",
+            "text": "看完这张图，不妨再看看自己常走的一条街。道路在哪里拐弯，房屋朝向哪里，水或树又占了多少位置？远方照片的意义，有时是让我们重新留意身边那些被看熟了的安排。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Visit Lofoten · Reine Fishing Village",
+            "url": "https://visitlofoten.com/en/destination/reine/"
+          }
+        ],
+        "publishedDate": "2026-11-24",
+        "image": "landscape"
+      },
+      {
+        "id": "poem-empty-cup-2026-11-24",
+        "type": "poem",
+        "title": "空杯的几分钟",
+        "source": "MONO诗笺",
+        "category": "短诗",
+        "text": "水喝完以后\n杯子还在桌上\n\n它没有急着\n装下别的东西\n\n窗边的一片光\n慢慢走过杯沿\n\n我把下一件事\n往后放了一点\n\n让这几分钟\n只属于空着的部分",
+        "attribution": "MONO 编辑部 · 原创",
+        "blocks": [
+          {
+            "type": "poem",
+            "text": "水喝完以后\n杯子还在桌上\n\n它没有急着\n装下别的东西\n\n窗边的一片光\n慢慢走过杯沿\n\n我把下一件事\n往后放了一点\n\n让这几分钟\n只属于空着的部分"
+          }
+        ],
+        "sources": [],
+        "publishedDate": "2026-11-24"
+      },
+      {
+        "id": "article-atkins-cyanotype-2026-11-24",
+        "type": "article",
+        "title": "把一片海藻留在蓝色里",
+        "source": "MONO艺术",
+        "category": "文章",
+        "text": "一种观察植物的方法，也是一种把注意力留在纸上的方式。",
+        "attribution": "MONO 编辑部 · 原创解读",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "如果只保留一株植物的轮廓，它还能让我们看见多少东西？颜色和背景退去以后，分枝的疏密、边缘的转折，以及细小空隙的形状，会变得格外清楚。"
+          },
+          {
+            "type": "paragraph",
+            "text": "英国自然历史博物馆介绍，安娜·阿特金斯用蓝晒法制作植物标本影像，并以摄影图像为书籍配图。光照和化学过程使植物的细节以蓝色印迹留在纸上。"
+          },
+          {
+            "type": "heading",
+            "text": "让细节先于结论出现"
+          },
+          {
+            "type": "paragraph",
+            "text": "面对这样的图像，我们也许会先觉得漂亮，然后才想到它原本与观察、记录有关。两种感受并不冲突。一个形状能够帮助我们辨认事物，也能够让我们停下来，看一看细节如何彼此连接。"
+          },
+          {
+            "type": "paragraph",
+            "text": "这里吸引人的，不只是那一种蓝色。还有一种很具体的耐心：把一个小小的对象认真放到纸面上，允许它占据足够的位置，不因为它普通，就只给它一个匆匆的目光。对于今天不断掠过图片的我们，这样的观看反而显得有些陌生。"
+          },
+          {
+            "type": "heading",
+            "text": "记录，也可以从一张白纸开始"
+          },
+          {
+            "type": "paragraph",
+            "text": "不必为了这个练习购买材料，更不必采集活的植物。你可以选一片已经落下的叶子，或者一件身边的小物，用眼睛顺着它的边缘走一遍。哪一处突然变窄？哪一段向外伸出去？有没有以前从未注意过的缺口？"
+          },
+          {
+            "type": "paragraph",
+            "text": "如果愿意，再在纸上画一个不求准确的轮廓。画歪了没有关系，重要的是这几分钟里，你确实在看它。也可以只写下三条描述，避免使用“好看”“普通”这样的判断，试着说清楚自己到底看见了什么。"
+          },
+          {
+            "type": "heading",
+            "text": "留下的不是一份成绩"
+          },
+          {
+            "type": "paragraph",
+            "text": "这样的记录不必变成一项每天完成的任务。它可以只发生一次，夹在书里，过些天偶然翻到。那时你也许已经忘了当时忙着什么，却还认得那片叶子的形状。"
+          },
+          {
+            "type": "paragraph",
+            "text": "从一张蓝色的植物影像出发，我们最终可以回到自己的生活。书桌上的一只杯子，窗台上落下的一片叶子，都值得这样看一次：给一个很小的东西，留出一次被认真看见的机会。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Natural History Museum · Anna Atkins’s cyanotypes",
+            "url": "https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html"
+          }
+        ],
+        "publishedDate": "2026-11-24"
+      },
+      {
+        "id": "demo-poster",
+        "type": "poster",
+        "title": "在海与山之间，慢下来。",
+        "source": "MONO视觉",
+        "category": "海报",
+        "text": "在海与山之间，慢下来。",
+        "image": "landscape",
+        "attribution": "MONO 编辑部",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "雷讷位于挪威罗弗敦群岛。岛屿、桥梁与曲折的道路连在一起，海湾和山体构成了这里鲜明的轮廓。"
+          },
+          {
+            "type": "paragraph",
+            "text": "看这张照片时，可以先把视线留在水面，再沿着岸线走向远处。山并没有因为我们的停留而改变，变化的是看风景的速度。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Visit Lofoten · Reine",
+            "url": "https://visitlofoten.com/en/destination/reine/"
+          }
+        ],
+        "publishedDate": "2026-11-04",
+        "poster": {
+          "quote": "在海与山之间，慢下来。",
+          "author": "MONO 编辑部",
+          "brandLabel": "MONO海报"
+        }
+      },
+      {
+        "id": "demo-nature",
+        "type": "image-text",
+        "title": "森林里，藏着微小的光",
+        "source": "MONO自然",
+        "category": "图文",
+        "text": "从发光真菌，发现自然的另一面。",
+        "image": "mushrooms",
+        "attribution": "MONO 编辑部整理",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "光不只来自天空。一些真菌也能通过体内的化学反应产生光，这种现象叫作生物发光。照片中的 Mycena luxaeterna，是其中一种发光真菌。"
+          },
+          {
+            "type": "paragraph",
+            "text": "2015 年的一项研究识别出真菌发光所用的荧光素：3-hydroxyhispidin。研究还在不同属的发光真菌提取物中验证了它的作用。微光背后，存在可以被研究的化学过程。"
+          },
+          {
+            "type": "paragraph",
+            "text": "我们常把“发现”理解为走到遥远的地方。偶尔，把视线放低一点，也能看见一个此前忽略的世界。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Purtov 等 · The Chemical Basis of Fungal Bioluminescence（2015）",
+            "url": "https://doi.org/10.1002/ange.201501779"
+          }
+        ],
+        "publishedDate": "2026-11-04"
+      },
+      {
+        "id": "demo-poem",
+        "type": "poem",
+        "title": "把今天留给风",
+        "source": "MONO诗笺",
+        "category": "短诗",
+        "attribution": "MONO 编辑部 · 原创试读",
+        "text": "窗开了一半\n风替我翻过一页\n\n没有写下的事情\n也在今天\n轻轻发生",
+        "blocks": [
+          {
+            "type": "poem",
+            "text": "窗开了一半\n风替我翻过一页\n\n没有写下的事情\n也在今天\n轻轻发生"
+          }
+        ],
+        "sources": [],
+        "publishedDate": "2026-11-04"
+      },
+      {
+        "id": "demo-kawara",
+        "type": "article",
+        "title": "河原温：把一天留下来",
+        "source": "MONO艺术",
+        "category": "文章",
+        "attribution": "MONO 编辑部整理",
+        "text": "一个日期，也可以成为凝视时间的方式。",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "如果一幅画只写着一个日期，你会在它面前停留多久？没有人物，没有风景，也没有讲述某个事件的画面，只有一天被清楚地写在背景上。"
+          },
+          {
+            "type": "heading",
+            "text": "一天，成为一幅画"
+          },
+          {
+            "type": "paragraph",
+            "text": "1966 年，河原温开始创作《Today》系列，也常被称为“日期绘画”。日期是这些作品的核心。他为自己设定规则：每一幅画必须在当天完成，否则销毁。"
+          },
+          {
+            "type": "paragraph",
+            "text": "这个规则让“今天”成为具体的工作期限。画上的日期看似简洁，创作却必须发生在这一天之内。它不只是为时间做一个标记，也把制作一幅画的行动与某一天联系起来。"
+          },
+          {
+            "type": "heading",
+            "text": "从观看日期，到想到自己"
+          },
+          {
+            "type": "paragraph",
+            "text": "面对一个日期，我们很容易开始回想：那时自己在哪里？那一天是否有人刚刚出生、刚刚抵达，或者结束一段旅程？这些联想来自观看者，不是画面预先提供的故事。"
+          },
+          {
+            "type": "paragraph",
+            "text": "这也让观看变得缓慢。我们不再急着判断画里发生了什么，而是开始注意，一个看起来平常的日子，对不同的人可能有怎样不同的分量。"
+          },
+          {
+            "type": "paragraph",
+            "text": "读完后，不妨只记下今天的日期。旁边可以留白，也可以加一句很短的话。它不必证明今天有多重要，只是为这一天留下一个可以再次遇见的入口。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Whitney Museum · On Kawara",
+            "url": "https://whitney.org/artists/16200"
+          }
+        ],
+        "publishedDate": "2026-11-04"
+      },
+      {
+        "id": "daily-sign-2026-11-05",
+        "type": "daily-sign",
+        "title": "徐行",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "莫听穿林打叶声，何妨吟啸且徐行。",
+        "attribution": "苏轼",
+        "publishedDate": "2026-11-05",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《定风波·莫听穿林打叶声》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《定风波·莫听穿林打叶声》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/定風波_(莫聽穿林打葉聲)"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月五日",
+          "theme": [
+            {
+              "text": "徐",
+              "pinyin": "xú"
+            },
+            {
+              "text": "行",
+              "pinyin": "xíng"
+            }
+          ],
+          "quote": "莫听穿林打叶声，何妨吟啸且徐行。",
+          "author": "苏轼",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-06",
+        "type": "daily-sign",
+        "title": "云起",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "行到水穷处，坐看云起时。",
+        "attribution": "王维",
+        "publishedDate": "2026-11-06",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《终南别业》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《终南别业》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/終南別業"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月六日",
+          "theme": [
+            {
+              "text": "云",
+              "pinyin": "yún"
+            },
+            {
+              "text": "起",
+              "pinyin": "qǐ"
+            }
+          ],
+          "quote": "行到水穷处，坐看云起时。",
+          "author": "王维",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-07",
+        "type": "daily-sign",
+        "title": "悠然",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "采菊东篱下，悠然见南山。",
+        "attribution": "陶渊明",
+        "publishedDate": "2026-11-07",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《饮酒二十首·其五》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《饮酒二十首·其五》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/飲酒二十首"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月七日",
+          "theme": [
+            {
+              "text": "悠",
+              "pinyin": "yōu"
+            },
+            {
+              "text": "然",
+              "pinyin": "rán"
+            }
+          ],
+          "quote": "采菊东篱下，悠然见南山。",
+          "author": "陶渊明",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-08",
+        "type": "daily-sign",
+        "title": "真实",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "比起爱情、金钱和名声，请给我真实。",
+        "attribution": "亨利·戴维·梭罗",
+        "publishedDate": "2026-11-08",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《瓦尔登湖》结语。中文为据英文原文译写，并非引用已出版译本。"
+          },
+          {
+            "type": "paragraph",
+            "text": "原文：Rather than love, than money, than fame, give me truth."
+          }
+        ],
+        "sources": [
+          {
+            "title": "《瓦尔登湖》结语 · 原文",
+            "url": "https://www.gutenberg.org/cache/epub/205/pg205-images.html"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月八日",
+          "theme": [
+            {
+              "text": "真",
+              "pinyin": "zhēn"
+            },
+            {
+              "text": "实",
+              "pinyin": "shí"
+            }
+          ],
+          "quote": "比起爱情、金钱和名声，请给我真实。",
+          "author": "亨利·戴维·梭罗",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-09",
+        "type": "daily-sign",
+        "title": "星光",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "我们都在阴沟里，但仍有人仰望星空。",
+        "attribution": "奥斯卡·王尔德",
+        "publishedDate": "2026-11-09",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《温德米尔夫人的扇子》第三幕。中文为据英文原文译写，并非引用已出版译本。"
+          },
+          {
+            "type": "paragraph",
+            "text": "原文：We are all in the gutter, but some of us are looking at the stars."
+          },
+          {
+            "type": "paragraph",
+            "text": "这句话在剧中由达灵顿勋爵说出，卡片按作品作者署名。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《温德米尔夫人的扇子》第三幕 · 原文",
+            "url": "https://www.gutenberg.org/cache/epub/790/pg790-images.html"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月九日",
+          "theme": [
+            {
+              "text": "星",
+              "pinyin": "xīng"
+            },
+            {
+              "text": "光",
+              "pinyin": "guāng"
+            }
+          ],
+          "quote": "我们都在阴沟里，但仍有人仰望星空。",
+          "author": "奥斯卡·王尔德",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-10",
+        "type": "daily-sign",
+        "title": "此刻",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "永恒由一个个此刻组成。",
+        "attribution": "艾米莉·狄金森",
+        "publishedDate": "2026-11-10",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《Forever — is composed of Nows》首行。中文为据英文原文译写，并非引用已出版译本。"
+          },
+          {
+            "type": "paragraph",
+            "text": "原文：Forever - is composed of Nows -"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《Forever — is composed of Nows》首行 · 原文",
+            "url": "https://www.poetryfoundation.org/poems/52202/forever-is-composed-of-nows-690"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月十日",
+          "theme": [
+            {
+              "text": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "text": "刻",
+              "pinyin": "kè"
+            }
+          ],
+          "quote": "永恒由一个个此刻组成。",
+          "author": "艾米莉·狄金森",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-11",
+        "type": "daily-sign",
+        "title": "启程",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "千里之行，始于足下。",
+        "attribution": "老子",
+        "publishedDate": "2026-11-11",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《道德经》第六十四章。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《道德经》第六十四章 · 原文",
+            "url": "https://ctext.org/dao-de-jing/zh"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月十一日",
+          "theme": [
+            {
+              "text": "启",
+              "pinyin": "qǐ"
+            },
+            {
+              "text": "程",
+              "pinyin": "chéng"
+            }
+          ],
+          "quote": "千里之行，始于足下。",
+          "author": "老子",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-18",
+        "type": "daily-sign",
+        "title": "新雨",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "空山新雨后，天气晚来秋。",
+        "attribution": "王维",
+        "publishedDate": "2026-11-18",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《山居秋暝》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《山居秋暝》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/山居秋暝"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月十八日",
+          "theme": [
+            {
+              "text": "新",
+              "pinyin": "xīn"
+            },
+            {
+              "text": "雨",
+              "pinyin": "yǔ"
+            }
+          ],
+          "quote": "空山新雨后，天气晚来秋。",
+          "author": "王维",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-19",
+        "type": "daily-sign",
+        "title": "清泉",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "明月松间照，清泉石上流。",
+        "attribution": "王维",
+        "publishedDate": "2026-11-19",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《山居秋暝》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《山居秋暝》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/山居秋暝"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月十九日",
+          "theme": [
+            {
+              "text": "清",
+              "pinyin": "qīng"
+            },
+            {
+              "text": "泉",
+              "pinyin": "quán"
+            }
+          ],
+          "quote": "明月松间照，清泉石上流。",
+          "author": "王维",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-20",
+        "type": "daily-sign",
+        "title": "心远",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "问君何能尔？心远地自偏。",
+        "attribution": "陶渊明",
+        "publishedDate": "2026-11-20",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《饮酒二十首·其五》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《饮酒二十首·其五》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/飲酒二十首"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月二十日",
+          "theme": [
+            {
+              "text": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "text": "远",
+              "pinyin": "yuǎn"
+            }
+          ],
+          "quote": "问君何能尔？心远地自偏。",
+          "author": "陶渊明",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-21",
+        "type": "daily-sign",
+        "title": "心闲",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "结庐在人境，而无车马喧。",
+        "attribution": "陶渊明",
+        "publishedDate": "2026-11-21",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《饮酒二十首·其五》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《饮酒二十首·其五》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/飲酒二十首"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月二十一日",
+          "theme": [
+            {
+              "text": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "text": "闲",
+              "pinyin": "xián"
+            }
+          ],
+          "quote": "结庐在人境，而无车马喧。",
+          "author": "陶渊明",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-22",
+        "type": "daily-sign",
+        "title": "真意",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "此中有真意，欲辨已忘言。",
+        "attribution": "陶渊明",
+        "publishedDate": "2026-11-22",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《饮酒二十首·其五》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《饮酒二十首·其五》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/飲酒二十首"
+          }
+        ],
+        "dailySign": {
+          "dateLabel": "二零二六年十一月二十二日",
+          "theme": [
+            {
+              "text": "真",
+              "pinyin": "zhēn"
+            },
+            {
+              "text": "意",
+              "pinyin": "yì"
+            }
+          ],
+          "quote": "此中有真意，欲辨已忘言。",
+          "author": "陶渊明",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        }
+      },
+      {
+        "id": "daily-sign-2026-11-23",
+        "type": "daily-sign",
+        "title": "微冷",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "料峭春风吹酒醒，微冷，山头斜照却相迎。",
+        "attribution": "苏轼",
+        "publishedDate": "2026-11-23",
+        "dailySign": {
+          "dateLabel": "二零二六年十一月二十三日",
+          "theme": [
+            {
+              "text": "微",
+              "pinyin": "wēi"
+            },
+            {
+              "text": "冷",
+              "pinyin": "lěng"
+            }
+          ],
+          "quote": "料峭春风吹酒醒，微冷，山头斜照却相迎。",
+          "author": "苏轼",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《定风波·莫听穿林打叶声》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《定风波·莫听穿林打叶声》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/定風波_(莫聽穿林打葉聲)"
+          }
+        ]
+      },
+      {
+        "id": "daily-sign-2026-11-24",
+        "type": "daily-sign",
+        "title": "偶然",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "偶然值林叟，谈笑无还期。",
+        "attribution": "王维",
+        "publishedDate": "2026-11-24",
+        "dailySign": {
+          "dateLabel": "二零二六年十一月二十四日",
+          "theme": [
+            {
+              "text": "偶",
+              "pinyin": "ǒu"
+            },
+            {
+              "text": "然",
+              "pinyin": "rán"
+            }
+          ],
+          "quote": "偶然值林叟，谈笑无还期。",
+          "author": "王维",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《终南别业》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《终南别业》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/終南別業"
+          }
+        ]
+      },
+      {
+        "id": "daily-sign-2026-11-25",
+        "type": "daily-sign",
+        "title": "飞鸟",
+        "source": "MONO日签",
+        "category": "每日一签",
+        "text": "山气日夕佳，飞鸟相与还。",
+        "attribution": "陶渊明",
+        "publishedDate": "2026-11-25",
+        "dailySign": {
+          "dateLabel": "二零二六年十一月二十五日",
+          "theme": [
+            {
+              "text": "飞",
+              "pinyin": "fēi"
+            },
+            {
+              "text": "鸟",
+              "pinyin": "niǎo"
+            }
+          ],
+          "quote": "山气日夕佳，飞鸟相与还。",
+          "author": "陶渊明",
+          "attributionLabel": "说",
+          "seal": {
+            "latin": "mono",
+            "chinese": "日签"
+          }
+        },
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "摘自《饮酒二十首·其五》。"
+          }
+        ],
+        "sources": [
+          {
+            "title": "《饮酒二十首·其五》 · 原文",
+            "url": "https://zh.wikisource.org/wiki/飲酒二十首"
+          }
+        ]
+      }
+    ],
+    "assets": {
+      "landscape": {
+        "id": "landscape",
+        "uri": "bundle://landscape",
+        "alt": "挪威雷讷的海湾、村落与群山",
+        "caption": "雷讷，罗弗敦群岛，2019 年。",
+        "author": "Gerd Eichmann",
+        "page": "https://commons.wikimedia.org/wiki/File:Reine-44-2019-gje.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "aspectRatio": 3.1067961165048543
+      },
+      "mushrooms": {
+        "id": "mushrooms",
+        "uri": "bundle://mushrooms",
+        "alt": "落叶间的 Mycena luxaeterna 真菌，菌柄呈绿色微光",
+        "caption": "Mycena luxaeterna，巴西。",
+        "author": "Cassius V. Stevani, IQ-USP",
+        "page": "https://commons.wikimedia.org/wiki/File:Mycenaluxaeterna.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "aspectRatio": 1.504
+      }
+    }
+  },
+  "feedItemIds": [
+    "demo-sign",
+    "poster-distant-shore-2026-11-24",
+    "image-text-beyond-mushroom-2026-11-24",
+    "poem-light-at-home-2026-11-24",
+    "article-hokusai-wave-2026-11-24",
+    "poster-small-light-2026-11-24",
+    "image-text-reading-coastline-2026-11-24",
+    "poem-empty-cup-2026-11-24",
+    "article-atkins-cyanotype-2026-11-24",
+    "demo-poster",
+    "demo-nature",
+    "demo-poem",
+    "demo-kawara"
+  ],
+  "dailySignIds": [
+    "daily-sign-2026-11-05",
+    "daily-sign-2026-11-06",
+    "daily-sign-2026-11-07",
+    "daily-sign-2026-11-08",
+    "daily-sign-2026-11-09",
+    "daily-sign-2026-11-10",
+    "daily-sign-2026-11-11",
+    "daily-sign-2026-11-18",
+    "daily-sign-2026-11-19",
+    "daily-sign-2026-11-20",
+    "daily-sign-2026-11-21",
+    "daily-sign-2026-11-22",
+    "daily-sign-2026-11-23",
+    "daily-sign-2026-11-24",
+    "daily-sign-2026-11-25"
+  ],
+  "japaneseLessons": [
+    {
+      "date": "2026-11-18",
+      "scene": "早上打招呼",
+      "expressions": [
+        [
+          "朝",
+          "あさ",
+          "asa",
+          "早上"
+        ],
+        [
+          "おはよう",
+          "おはよう",
+          "ohayō",
+          "早上好"
+        ],
+        [
+          "おはようございます。",
+          "おはようございます。",
+          "Ohayō gozaimasu.",
+          "早上好。"
+        ]
+      ],
+      "note": "和朋友打招呼时，说「おはよう」就可以。"
+    },
+    {
+      "date": "2026-11-19",
+      "scene": "请店员稍等",
+      "expressions": [
+        [
+          "少し",
+          "すこし",
+          "sukoshi",
+          "一点儿"
+        ],
+        [
+          "少し待つ",
+          "すこしまつ",
+          "sukoshi matsu",
+          "等一会儿"
+        ],
+        [
+          "すみません、少し待ってください。",
+          "すみません、すこしまってください。",
+          "Sumimasen, sukoshi matte kudasai.",
+          "不好意思，请稍等一下。"
+        ]
+      ],
+      "note": "「少々お待ちください」是店员常用的更客气的说法。"
+    },
+    {
+      "date": "2026-11-20",
+      "scene": "询问价格",
+      "expressions": [
+        [
+          "値段",
+          "ねだん",
+          "nedan",
+          "价格"
+        ],
+        [
+          "いくら",
+          "いくら",
+          "ikura",
+          "多少钱"
+        ],
+        [
+          "すみません、これはいくらですか。",
+          "すみません、これはいくらですか。",
+          "Sumimasen, kore wa ikura desu ka.",
+          "你好，请问这个多少钱？"
+        ]
+      ],
+      "note": "指着手边的商品时，可以用「これ」。"
+    },
+    {
+      "date": "2026-11-21",
+      "scene": "借一把伞",
+      "expressions": [
+        [
+          "傘",
+          "かさ",
+          "kasa",
+          "伞"
+        ],
+        [
+          "傘を借りる",
+          "かさをかりる",
+          "kasa o kariru",
+          "借伞"
+        ],
+        [
+          "傘を借りてもいいですか。",
+          "かさをかりてもいいですか。",
+          "Kasa o karite mo ii desu ka.",
+          "我可以借一下伞吗？"
+        ]
+      ],
+      "note": "从别人那里借东西，用「借りる」。"
+    },
+    {
+      "date": "2026-11-22",
+      "scene": "问能不能刷卡",
+      "expressions": [
+        [
+          "カード",
+          "カード",
+          "kādo",
+          "卡"
+        ],
+        [
+          "カードで払う",
+          "カードではらう",
+          "kādo de harau",
+          "刷卡支付"
+        ],
+        [
+          "カードで払えますか。",
+          "カードではらえますか。",
+          "Kādo de haraemasu ka.",
+          "可以刷卡吗？"
+        ]
+      ],
+      "note": "用「で」来表示支付方式，比如「現金で」就是用现金。"
+    },
+    {
+      "date": "2026-11-23",
+      "scene": "在咖啡店点单",
+      "expressions": [
+        [
+          "持ち帰り",
+          "もちかえり",
+          "mochikaeri",
+          "外带"
+        ],
+        [
+          "持ち帰りで",
+          "もちかえりで",
+          "mochikaeri de",
+          "打包带走"
+        ],
+        [
+          "コーヒーを一つ、持ち帰りでお願いします。",
+          "こーひーをひとつ、もちかえりでおねがいします。",
+          "Kōhī o hitotsu, mochikaeri de onegai shimasu.",
+          "一杯咖啡，麻烦打包带走。"
+        ]
+      ],
+      "note": "在店里喝，可以把「持ち帰りで」换成「店内で（てんないで）」。"
+    },
+    {
+      "date": "2026-11-24",
+      "scene": "便利店结账",
+      "expressions": [
+        [
+          "袋",
+          "ふくろ",
+          "fukuro",
+          "袋子"
+        ],
+        [
+          "袋はいりません",
+          "ふくろはいりません",
+          "fukuro wa irimasen",
+          "不用袋子"
+        ],
+        [
+          "袋はいりません。ありがとうございます。",
+          "ふくろはいりません。ありがとうございます。",
+          "Fukuro wa irimasen. Arigatō gozaimasu.",
+          "不用袋子，谢谢。"
+        ]
+      ],
+      "note": "想要袋子，可以说「袋をお願いします」。"
+    },
+    {
+      "date": "2026-11-25",
+      "scene": "问车站在哪里",
+      "expressions": [
+        [
+          "駅",
+          "えき",
+          "eki",
+          "车站"
+        ],
+        [
+          "駅はどこ",
+          "えきはどこ",
+          "eki wa doko",
+          "车站在哪"
+        ],
+        [
+          "すみません、駅はどこですか。",
+          "すみません、えきはどこですか。",
+          "Sumimasen, eki wa doko desu ka.",
+          "不好意思，请问车站在哪里？"
+        ]
+      ],
+      "note": "向陌生人搭话时，先说一句「すみません」。"
+    },
+    {
+      "date": "2026-11-26",
+      "scene": "约朋友见面",
+      "expressions": [
+        [
+          "明日",
+          "あした",
+          "ashita",
+          "明天"
+        ],
+        [
+          "明日の午後",
+          "あしたのごご",
+          "ashita no gogo",
+          "明天下午"
+        ],
+        [
+          "明日の午後、会いませんか。",
+          "あしたのごご、あいませんか。",
+          "Ashita no gogo, aimasen ka.",
+          "明天下午要不要见个面？"
+        ]
+      ],
+      "note": "「〜ませんか」可以用来礼貌地发出邀请。"
+    },
+    {
+      "date": "2026-11-27",
+      "scene": "在店里试穿",
+      "expressions": [
+        [
+          "試着",
+          "しちゃく",
+          "shichaku",
+          "试穿"
+        ],
+        [
+          "試着する",
+          "しちゃくする",
+          "shichaku suru",
+          "试穿衣服"
+        ],
+        [
+          "これ、試着してもいいですか。",
+          "これ、しちゃくしてもいいですか。",
+          "Kore, shichaku shite mo ii desu ka.",
+          "这件可以试穿吗？"
+        ]
+      ],
+      "note": "「〜てもいいですか」是询问对方是否允许你做某事。"
+    },
+    {
+      "date": "2026-11-28",
+      "scene": "请对方再说一遍",
+      "expressions": [
+        [
+          "一度",
+          "いちど",
+          "ichido",
+          "一次"
+        ],
+        [
+          "もう一度",
+          "もういちど",
+          "mō ichido",
+          "再一次"
+        ],
+        [
+          "もう一度言ってもらえますか。",
+          "もういちどいってもらえますか。",
+          "Mō ichido itte moraemasu ka.",
+          "可以请你再说一遍吗？"
+        ]
+      ],
+      "note": "想请对方说慢一点，可以加上「ゆっくり」。"
+    },
+    {
+      "date": "2026-11-29",
+      "scene": "在餐厅买单",
+      "expressions": [
+        [
+          "会計",
+          "かいけい",
+          "kaikei",
+          "结账"
+        ],
+        [
+          "お会計",
+          "おかいけい",
+          "okaikei",
+          "买单"
+        ],
+        [
+          "すみません、お会計をお願いします。",
+          "すみません、おかいけいをおねがいします。",
+          "Sumimasen, okaikei o onegai shimasu.",
+          "不好意思，麻烦买单。"
+        ]
+      ],
+      "note": "这里的「お」让说法更礼貌。"
+    },
+    {
+      "date": "2026-11-30",
+      "scene": "在车站换乘",
+      "expressions": [
+        [
+          "乗り換え",
+          "のりかえ",
+          "norikae",
+          "换乘"
+        ],
+        [
+          "ここで乗り換える",
+          "ここでのりかえる",
+          "koko de norikaeru",
+          "在这里换乘"
+        ],
+        [
+          "ここで乗り換えればいいですか。",
+          "ここでのりかえればいいですか。",
+          "Koko de norikaereba ii desu ka.",
+          "请问在这里换乘就可以吗？"
+        ]
+      ],
+      "note": "想问「在哪里换乘」，可以说「どこで乗り換えればいいですか」。"
+    },
+    {
+      "date": "2026-12-01",
+      "scene": "在书店找书",
+      "expressions": [
+        [
+          "本",
+          "ほん",
+          "hon",
+          "书"
+        ],
+        [
+          "この本",
+          "このほん",
+          "kono hon",
+          "这本书"
+        ],
+        [
+          "すみません、この本はありますか。",
+          "すみません、このほんはありますか。",
+          "Sumimasen, kono hon wa arimasu ka.",
+          "你好，请问有这本书吗？"
+        ]
+      ],
+      "note": "可以把手机上的封面给店员看，同时问「この本はありますか」。"
+    },
+    {
+      "date": "2026-12-02",
+      "scene": "在车站寄存行李",
+      "expressions": [
+        [
+          "荷物",
+          "にもつ",
+          "nimotsu",
+          "行李"
+        ],
+        [
+          "荷物を預ける",
+          "にもつをあずける",
+          "nimotsu o azukeru",
+          "寄存行李"
+        ],
+        [
+          "ここで荷物を預けられますか。",
+          "ここでにもつをあずけられますか。",
+          "Koko de nimotsu o azukeraremasu ka.",
+          "请问这里可以寄存行李吗？"
+        ]
+      ],
+      "note": "找自助寄存柜时，可以问「コインロッカーはどこですか」。"
+    },
+    {
+      "date": "2026-12-03",
+      "scene": "告诉朋友会晚到",
+      "expressions": [
+        [
+          "遅れる",
+          "おくれる",
+          "okureru",
+          "迟到、晚到"
+        ],
+        [
+          "少し遅れる",
+          "すこしおくれる",
+          "sukoshi okureru",
+          "晚到一会儿"
+        ],
+        [
+          "ごめん、少し遅れそう。",
+          "ごめん、すこしおくれそう。",
+          "Gomen, sukoshi okuresō.",
+          "抱歉，我可能会晚到一会儿。"
+        ]
+      ],
+      "note": "这句话适合发给朋友。需要更客气时，可以说「すみません、少し遅れそうです」。"
+    }
+  ],
+  "dailyAlmanac": {
+    "2026-11-23": {
+      "suitable": "绕一点路回家",
+      "avoid": "把散步走成赶路"
+    },
+    "2026-11-24": {
+      "suitable": "给旧爱好留十分钟",
+      "avoid": "给爱好也定绩效"
+    },
+    "2026-11-25": {
+      "suitable": "把一首歌听完",
+      "avoid": "刚听到前奏就切走"
+    },
+    "2026-11-26": {
+      "suitable": "午饭吃点热的",
+      "avoid": "把咖啡当正餐"
+    },
+    "2026-11-27": {
+      "suitable": "把喜欢的句子抄下来",
+      "avoid": "让它在收藏夹里落灰"
+    },
+    "2026-11-28": {
+      "suitable": "去一家没去过的小店",
+      "avoid": "进门前先把评价读完"
+    },
+    "2026-11-29": {
+      "suitable": "给周日留一段空白",
+      "avoid": "周日就开始过周一"
+    }
+  }
+}
